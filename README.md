@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🖥️  See my portfolio at [michaelobasi.com](http://michaelobasi.com)
+* 🖥️  See my portfolio at [michaelobasi.dev](https://michaelobasi.dev/portfolio_v3/)
 * 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.github.com/kleva-j" target="_blank" rel="noreferrer"><img
