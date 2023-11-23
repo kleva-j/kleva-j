@@ -44,12 +44,10 @@ src="https://img.shields.io/github/followers/kleva-j?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kleva-j"><img src="https://github-readme-stats.vercel.app/api?username=kleva-j&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kleva-j's GitHub stats" /></a>
+<a href="http://www.github.com/kleva-j"><img src="https://github-readme-stats.vercel.app/api?username=kleva-j&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kleva-j's GitHub stats" /></a>
 
-<a href="http://www.github.com/kleva-j"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kleva-j&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/kleva-j"><img src="https://activity-graph.herokuapp.com/graph?username=kleva-j&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/kleva-j"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kleva-j&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/kleva-j"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kleva-j&bg_color=000000&color=4c839e&line=8b8adb&point=b8b7f0&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Github Activity Graph" /></a>
 
-<a href="https://github.com/kleva-j" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleva-j&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kleva-j" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vision-friendly-dark&hide_border=true&username=kleva-j&title_color=0891b2" alt="Top Languages" /></a>
