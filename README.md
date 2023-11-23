@@ -35,14 +35,11 @@ src="https://img.shields.io/github/followers/kleva-j?logo=github&style=for-the-b
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kleva-j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/michael-obasi-808806140/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### Stats
 
 <a href="http://www.github.com/kleva-j"><img src="https://github-readme-stats.vercel.app/api?username=kleva-j&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kleva-j's GitHub stats" /></a>
 
@@ -51,3 +48,7 @@ src="https://img.shields.io/github/followers/kleva-j?logo=github&style=for-the-b
 <a href="http://www.github.com/kleva-j"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kleva-j&bg_color=000000&color=4c839e&line=8b8adb&point=b8b7f0&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Github Activity Graph" /></a>
 
 <a href="https://github.com/kleva-j" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=vision-friendly-dark&hide_border=true&username=kleva-j&title_color=0891b2" alt="Top Languages" /></a>
+
+
+### Animations
+<img src="https://raw.githubusercontent.com/rutkuli/rutkuli/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
