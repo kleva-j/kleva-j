@@ -39,10 +39,10 @@ src="https://img.shields.io/github/followers/kleva-j?logo=github&style=for-the-b
 
 <p align="left"> <a href="https://www.github.com/kleva-j" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/michael-obasi-808806140/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Stats
+
 #### Profile Views
 <img src="https://profile-counter.glitch.me/kleva-j/count.svg" alt="kleva-j" />
-
-### Stats
 
 <a href="http://www.github.com/kleva-j"><img src="https://github-readme-stats.vercel.app/api?username=kleva-j&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kleva-j's GitHub stats" /></a>
 
